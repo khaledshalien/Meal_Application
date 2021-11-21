@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## ScreenShot
 
-<img src="assets/one.png" height="500em" /><img src="assets/two.png" height="500em" /><img src="assets/three.png" height="500em" /><img src="assets/four.png" height="500em" />
+<img src="assets/screenshot/Meal_app_photo" height="500em" />
