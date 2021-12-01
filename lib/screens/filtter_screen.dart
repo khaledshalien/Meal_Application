@@ -52,7 +52,7 @@ class _FillterScreenState extends State<FillterScreen> {
         children: [
           Container(
             padding: EdgeInsets.all(20),
-            child: Text("Adjust your Meal selection.",style: Theme.of(context).textTheme.title,),
+            child: Text("Adjust your Meal selection.",style: Theme.of(context).textTheme.subtitle1,),
           ),
           Expanded(
               child:ListView(

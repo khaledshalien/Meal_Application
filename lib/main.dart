@@ -81,9 +81,9 @@ class _MyAppState extends State<MyApp> {
         accentColor: Colors.amber,
         canvasColor: Color.fromRGBO(255, 254, 229, 1),
         textTheme: ThemeData.light().textTheme.copyWith(
-          body1:TextStyle(color: Color.fromRGBO(20, 50, 50, 1)) ,
-          body2:TextStyle(color: Color.fromRGBO(20, 50, 50, 1)) ,
-          title:const TextStyle(
+          bodyText1:TextStyle(color: Color.fromRGBO(20, 50, 50, 1)) ,
+          bodyText2:TextStyle(color: Color.fromRGBO(20, 50, 50, 1)) ,
+          subtitle1:const TextStyle(
             fontSize: 20,
             fontWeight: FontWeight.bold,
             fontFamily: 'RobotoCondensed'

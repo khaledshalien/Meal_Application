@@ -37,7 +37,7 @@ class _MealDetailsScreenState extends State<MealDetailsScreen> {
               child: Text("Ingredients", style: Theme
                   .of(context)
                   .textTheme
-                  .title,),
+                  .subtitle1,),
             ),
             Container(
               decoration: BoxDecoration(
@@ -68,7 +68,7 @@ class _MealDetailsScreenState extends State<MealDetailsScreen> {
               child: Text("Steps", style: Theme
                   .of(context)
                   .textTheme
-                  .title,),
+                  .subtitle1,),
             ),
             Container(
               decoration: BoxDecoration(
