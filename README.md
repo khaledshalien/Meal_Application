@@ -19,3 +19,5 @@ samples, guidance on mobile development, and a full API reference.
 ## ScreenShot
 
 <img src="assets/screenshot/Meal_app_photo" height="500em" />
+
+## Created by Khaled Shalein
